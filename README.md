@@ -46,6 +46,7 @@
 - 🌟 [Tuesdays with Morrie <sub>An Old Man, a Young Man, and Life's Greatest Lesson </sub>](https://www.amazon.com/Tuesdays-Morrie-Greatest-Lesson-Anniversary/dp/076790592X)
 - 🌑 [One <sub>Richard bach</sub>](https://www.goodreads.com/book/show/265264.One)
 - 🌑 [Gift Of Wings <sub>Richard bach</sub>](https://www.goodreads.com/book/show/29953.A_Gift_Of_Wings)
+- 🌑 [Biplane <sub>Richard bach</sub>](https://www.amazon.in/Biplane-Richard-Bach/dp/044020657X/ref=sr_1_1?keywords=biplane+richard+bach&qid=1566635993&s=books&sr=1-1)
 - 🌟 [Jonathan Levingston Seagull <sub>Richard bach </sub>](https://www.goodreads.com/book/show/71728.Jonathan_Livingston_Seagull)
 - 🌟 [Word Power Made Easy  <sub>Norman Lewis </sub>](https://www.amazon.in/Word-Power-Made-Norman-Lewis/dp/8183071007)
 - 🌑 [The Unbearable Lightness of Being <sub>Milan Kundra</sub>](https://www.goodreads.com/book/show/9717.The_Unbearable_Lightness_of_Being)
@@ -60,6 +61,7 @@
 - 🌑 [Turning Point<sub>APJ Abdul Kalam</sub>](https://www.amazon.in/Turning-Points-Journey-Challanges-Challenges/dp/9350293471)
 - 🌑 [Ignited Minds<sub>APJ Abdul Kalam</sub>](https://www.amazon.in/Ignited-Minds-Unleashing-power-within/dp/0143424122)
 - 🌑 [Winner Stand Alone <sub>Paulo Coelho</sub>](https://www.goodreads.com/book/show/5356711-the-winner-stands-alone?ac=1&from_search=true)
+- 🌑 [Hard Times <sub>Charles Dickens</sub>](https://www.goodreads.com/book/show/5344.Hard_Times)
 
 ## Yoga
 - 🌑 [Know Yoga Live Yoga <sub>Vasant Mhaskar</sub>]()
