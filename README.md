@@ -14,7 +14,14 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌝 **Wouldn't recommend** <sub>(2/84)</sub>
 - 🌟 **Loved it** <sub>(23/84)</sub>
 
-## Web Performance
-- 🌕 [How Buildings Learn <sub>What Happens After They're Built</sub>](http://amzn.to/1SCYQX0)
-- 🌟 [The Accidental Masterpiece <sub>On the Art of Life and Vice Versa</sub>](http://amzn.to/1SCYXSE)
-- 🌑 [What Are You Looking At? <sub>The Surprising, Shocking, and Sometimes Strange Story of 150 Years of Modern Art</sub>](http://amzn.to/1SCYY90)
+## Teamwork
+- 🌕 [The Mythical Man-Month:<sub>Essays on Software Engineering</sub>](https://www.amazon.com/dp/0201835959/?tag=codihorr-20)
+
+
+## Linux 
+- 🌟 [Understanding Linux Kernel <sub></sub>](https://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652)
+
+
+
+## Casual Reads
+- 🌑 [Hippie? <sub></sub>](https://www.goodreads.com/book/show/39731666-hippie)
