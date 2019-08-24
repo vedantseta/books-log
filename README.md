@@ -28,12 +28,19 @@
 - 🌟 [Rich dad poor dad <sub>What the Rich Teach their Kids About Money that the Poor and Middle Class Do Not! </sub>](https://www.amazon.in/Rich-Dad-Poor-Teach-Middle/dp/1612680011)
 
 
+## Programming 
+- 🌑 [Refactoring <sub>Martin Fowler</sub>](https://www.goodreads.com/book/show/44936.Refactoring?ac=1&from_search=true)
+- 🌑 [Professor Frisby's Mostly Adequate Guide to Functional Programming <sub>Brian Lonsdorf</sub>](https://www.goodreads.com/en/book/show/25847352-professor-frisby-s-mostly-adequate-guide-to-functional-programming)
+
+
 ## Network 
 - 🌑 [Cryptography and Network Security <sub>Principles and Practice</sub>](http://williamstallings.com/Cryptography/)
 - 🌑 [Distributed Computing systems <sub>concepts and design</sub>](https://www.amazon.in/Distributed-Operating-Systems-Concepts-Design/dp/8120313801)
 
 ## Other Computing
 - 🌑 [Compilers <sub>Aho</sub>](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811)
+- 🌑 [Little Book of Semaphoe <sub>The Ins and Outs of Concurrency Control and Common Mistakes
+</sub>](https://www.goodreads.com/book/show/6965200-the-little-book-of-semaphores)
 
 
 ## Self help 
