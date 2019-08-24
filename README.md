@@ -1,6 +1,6 @@
 # Reads
 
-> :books: A list of physical books I own. Includes ratings!
+> :books: A list of physical books I own. Includes ratings! <br>
 > TODO: update reading status of many 
 
 ## Ratings
