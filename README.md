@@ -13,15 +13,15 @@
 - 🌟 **Loved it** <sub></sub>
 
 ## Want 
-- The Design of Everyday Things 
-- The God Of Small Things By Arundhati Roy
-- White Tiger By Aravind Adiga
-- A Suitable Boy by Vikram Seth
-- 🌑 [The Mythical Man-Month:<sub>Essays on Software Engineering</sub>](https://www.amazon.com/dp/0201835959/?tag=codihorr-20)
-- 🌑 [Understanding Linux Kernel <sub></sub>](https://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652)
-- Structure and Interpretation of Computer Programs
-- Purely Functional Data Structures by Okasaki
-- The Art of Unix Programming
+- :x: The Design of Everyday Things 
+- :x: The God Of Small Things By Arundhati Roy
+- :x: White Tiger By Aravind Adiga
+- :x: A Suitable Boy by Vikram Seth
+- :x: [The Mythical Man-Month:<sub>Essays on Software Engineering</sub>](https://www.amazon.com/dp/0201835959/?tag=codihorr-20)
+- :x: [Understanding Linux Kernel <sub></sub>](https://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652)
+- :x: Structure and Interpretation of Computer Programs
+- :x: Purely Functional Data Structures by Okasaki
+- :x: The Art of Unix Programming
 
 ## Software Philosophy
 
