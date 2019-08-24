@@ -62,7 +62,7 @@
 - 🌑 [One <sub>Richard bach</sub>](https://www.goodreads.com/book/show/265264.One)
 - 🌑 [Gift Of Wings <sub>Richard bach</sub>](https://www.goodreads.com/book/show/29953.A_Gift_Of_Wings)
 - 🌑 [Biplane <sub>Richard bach</sub>](https://www.amazon.in/Biplane-Richard-Bach/dp/044020657X/ref=sr_1_1?keywords=biplane+richard+bach&qid=1566635993&s=books&sr=1-1)
-- 🌟 [Jonathan Levingston Seagull <sub>Richard bach </sub>](https://www.goodreads.com/book/show/71728.Jonathan_Livingston_Seagull)
+- 🌟 [Jonathan Levingston Seagull <sub>Richard bach </sub>(https://www.goodreads.com/book/show/71728.Jonathan_Livingston_Seagull)
 - 🌟 [Word Power Made Easy  <sub>Norman Lewis </sub>](https://www.amazon.in/Word-Power-Made-Norman-Lewis/dp/8183071007)
 - 🌑 [The Unbearable Lightness of Being <sub>Milan Kundra</sub>](https://www.goodreads.com/book/show/9717.The_Unbearable_Lightness_of_Being)
 - 🌝 [Man Without Women <sub>Murakami</sub>](https://www.amazon.in/Men-without-Women-Haruki-Murakami/dp/191121537X)
@@ -83,6 +83,7 @@
 - 🌑 [Boule De Suf and other stories <sub>Guy De Maupassant</sub>](https://www.goodreads.com/book/show/74882.Boule_de_Suif)
 - 🌑 [Peter Camenzind  <sub>Hermann Hesse </sub>](https://www.goodreads.com/book/show/71943.Peter_Camenzind)
 - 🌑 [Klingsor's Last Summer  <sub>Hermann Hesse </sub>](https://www.amazon.com/Klingsors-Last-Summer-Hermann-Hesse/dp/0374181667)
+- 🌟 [The Alchemist <sub>Paulo Coelho</sub>](https://www.amazon.in/Alchemist-Paulo-Coelho/dp/8172234988)
 
 ## Yoga
 - 🌑 [Know Yoga Live Yoga <sub>Vasant Mhaskar</sub>]()
