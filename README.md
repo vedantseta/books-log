@@ -20,6 +20,7 @@
 - 🌑 [Understanding Linux Kernel <sub></sub>](https://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652)
 - Structure and Interpretation of Computer Programs
 - Purely Functional Data Structures by Okasaki
+- The Art of Unix Programming
 
 ## Software Philosophy
 
