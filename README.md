@@ -12,20 +12,13 @@
 - 🌝 **Wouldn't recommend** <sub></sub>
 - 🌟 **Loved it** <sub></sub>
 
-## Want 
-- :x: The Design of Everyday Things 
-- :x: The God Of Small Things By Arundhati Roy
-- :x: White Tiger By Aravind Adiga
-- :x: A Suitable Boy by Vikram Seth
-- :x: [The Mythical Man-Month:<sub>Essays on Software Engineering</sub>](https://www.amazon.com/dp/0201835959/?tag=codihorr-20)
-- :x: [Understanding Linux Kernel <sub></sub>](https://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652)
-- :x: Structure and Interpretation of Computer Programs
-- :x: Purely Functional Data Structures by Okasaki
-- :x: The Art of Unix Programming
+
 
 ## Software Philosophy
 
 - 🌑 [The Pragmatic Programmer<sub>From Journeyman to Master</sub>](https://www.amazon.in/Pragmatic-Programmer-Journeyman-Master-ebook/dp/B003GCTQAE)
+- :x: [The Mythical Man-Month:<sub>Essays on Software Engineering</sub>](https://www.amazon.com/dp/0201835959/?tag=codihorr-20)
+- :x: Structure and Interpretation of Computer Programs
 
 
 ## Machine Learning
@@ -33,6 +26,8 @@
 
 
 ## Linux 
+- :x: [Understanding Linux Kernel <sub></sub>](https://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652)
+- :x: The Art of Unix Programming
 
 
 
@@ -45,6 +40,7 @@
 - 🌑 [Professor Frisby's Mostly Adequate Guide to Functional Programming <sub>Brian Lonsdorf</sub>](https://www.goodreads.com/en/book/show/25847352-professor-frisby-s-mostly-adequate-guide-to-functional-programming)
 - 🌑 [Effective Java  <sub>Joshua Bloch </sub>](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997)
 - 🌑 [Design Patterns  <sub>Gangs of Four </sub>](https://www.amazon.in/Design-Patterns-Object-Oriented-Addison-Wesley-Professional/dp/0201633612)
+- :x: Purely Functional Data Structures by Okasaki
 
 
 ## Network 
@@ -101,6 +97,11 @@
 - 🌑 [Harry Portter and Philosophers Stone  <sub>JK Rowling </sub>](https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone?ac=1&from_search=true)
 - 🌑 [Famous Five  <sub>13 Five to Mystery Moor </sub>](https://www.goodreads.com/book/show/17483.Five_Go_to_Mystery_Moor)
 
+## Categorization left 
+- :x: The Design of Everyday Things 
+- :x: The God Of Small Things By Arundhati Roy
+- :x: White Tiger By Aravind Adiga
+- :x: A Suitable Boy by Vikram Seth
 
 ## Lost Physical Books (If you have it, please inform)
 - 🌑 [Hippie <sub>Paulo Coelho</sub>](https://www.goodreads.com/book/show/39731666-hippie)
