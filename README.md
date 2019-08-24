@@ -76,8 +76,6 @@
 - 🌟 [Siddhartha  <sub>Hermann Hesse </sub>](https://www.amazon.in/Siddhartha-Hermann-Hesse/dp/0553208845)
 - 🌑 [Secret  <sub>Rhonda Byrne </sub>](https://www.amazon.in/Secret-Rhonda-Byrne/dp/1847370292/ref=sr_1_3?crid=2BMEINFLMD7XR&keywords=secret+rhonda+byrne+book&qid=1566635147&s=books&sprefix=secret+rh%2Cstripbooks%2C274&sr=1-3)
 - 🌑 [And Mountains Echoed  <sub>Khaled Hosseini </sub>](https://www.amazon.in/Mountains-Echoed-Novel-Khaled-Hosseini/dp/159463176X/ref=sr_1_3?crid=2U01NS1W869IG&keywords=and+mountains+echoed&qid=1566635187&s=books&sprefix=and+mountain%2Cstripbooks%2C271&sr=1-3)
-- 🌑 [Turning Point<sub>APJ Abdul Kalam</sub>](https://www.amazon.in/Turning-Points-Journey-Challanges-Challenges/dp/9350293471)
-- 🌑 [Ignited Minds<sub>APJ Abdul Kalam</sub>](https://www.amazon.in/Ignited-Minds-Unleashing-power-within/dp/0143424122)
 - 🌑 [Winner Stand Alone <sub>Paulo Coelho</sub>](https://www.goodreads.com/book/show/5356711-the-winner-stands-alone?ac=1&from_search=true)
 - 🌑 [Hard Times <sub>Charles Dickens</sub>](https://www.goodreads.com/book/show/5344.Hard_Times)
 - 🌑 [The Myth of Sisyphus <sub>Albert Camus</sub>](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus?ac=1&from_search=true)
@@ -98,7 +96,6 @@
 
 ## Fiction 
 - 🌑 [Eldest <sub></sub>](https://www.goodreads.com/book/show/13350.Eragon_Eldest)
-- 🌑 [Secret of Nagas  <sub>Amish </sub>](https://www.amazon.in/Secret-Nagas-Shiva-Trilogy-2/dp/9381626340)
 - 🌑 [Harry Portter and Philosophers Stone  <sub>JK Rowling </sub>](https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone?ac=1&from_search=true)
 - 🌑 [Famous Five  <sub>13 Five to Mystery Moor </sub>](https://www.goodreads.com/book/show/17483.Five_Go_to_Mystery_Moor)
 
@@ -107,4 +104,10 @@
 - 🌑 [Hippie <sub>Paulo Coelho</sub>](https://www.goodreads.com/book/show/39731666-hippie)
 - 🌟 [Illusions: The Adventures of a Reluctant Messiah <sub>Richard bach</sub>](https://www.amazon.in/Illusions-Adventures-Reluctant-Richard-Bach/dp/0440204887)
 - 🌟 [The Bridge Across Forever <sub>Richard bach</sub>](https://www.amazon.in/Bridge-Across-Forever-Richard-Bach/dp/0330290819)
+
+## Borrowed books
+- 🌑 [Ignited Minds<sub>APJ Abdul Kalam</sub>](https://www.amazon.in/Ignited-Minds-Unleashing-power-within/dp/0143424122)
+- 🌑 [Turning Point<sub>APJ Abdul Kalam</sub>](https://www.amazon.in/Turning-Points-Journey-Challanges-Challenges/dp/9350293471)
+- 🌑 [Secret of Nagas  <sub>Amish </sub>](https://www.amazon.in/Secret-Nagas-Shiva-Trilogy-2/dp/9381626340)
+
 
