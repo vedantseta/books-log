@@ -11,8 +11,16 @@
 - 🌝 **Wouldn't recommend** <sub>(2/84)</sub>
 - 🌟 **Loved it** <sub>(23/84)</sub>
 
-## Software Philosophy
+## Want 
+- The Design of Everyday Things 
+- The God Of Small Things By Arundhati Roy
+- White Tiger By Aravind Adiga
+- A Suitable Boy by Vikram Seth
 - 🌑 [The Mythical Man-Month:<sub>Essays on Software Engineering</sub>](https://www.amazon.com/dp/0201835959/?tag=codihorr-20)
+- 🌑 [Understanding Linux Kernel <sub></sub>](https://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652)
+
+## Software Philosophy
+
 - 🌑 [The Pragmatic Programmer<sub>From Journeyman to Master</sub>](https://www.amazon.in/Pragmatic-Programmer-Journeyman-Master-ebook/dp/B003GCTQAE)
 
 
@@ -21,7 +29,7 @@
 
 
 ## Linux 
-- 🌑 [Understanding Linux Kernel <sub></sub>](https://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652)
+
 
 
 ## Finance
