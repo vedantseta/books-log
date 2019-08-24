@@ -19,6 +19,7 @@
 - 🌑 [The Mythical Man-Month:<sub>Essays on Software Engineering</sub>](https://www.amazon.com/dp/0201835959/?tag=codihorr-20)
 - 🌑 [Understanding Linux Kernel <sub></sub>](https://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652)
 - Structure and Interpretation of Computer Programs
+- Purely Functional Data Structures by Okasaki
 
 ## Software Philosophy
 
