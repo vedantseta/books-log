@@ -58,7 +58,6 @@
 
 
 ## Philosophy
-- 🌑 [Hippie <sub>Paulo Coelho</sub>](https://www.goodreads.com/book/show/39731666-hippie)
 - 🌟 [Tuesdays with Morrie <sub>An Old Man, a Young Man, and Life's Greatest Lesson </sub>](https://www.amazon.com/Tuesdays-Morrie-Greatest-Lesson-Anniversary/dp/076790592X)
 - 🌑 [One <sub>Richard bach</sub>](https://www.goodreads.com/book/show/265264.One)
 - 🌑 [Gift Of Wings <sub>Richard bach</sub>](https://www.goodreads.com/book/show/29953.A_Gift_Of_Wings)
@@ -100,5 +99,8 @@
 - 🌑 [Famous Five  <sub>13 Five to Mystery Moor </sub>](https://www.goodreads.com/book/show/17483.Five_Go_to_Mystery_Moor)
 
 
+## Lost Physical Books
+- 🌑 [Effective Java  <sub>Joshua Bloch </sub>](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997)
+- 🌑 [Hippie <sub>Paulo Coelho</sub>](https://www.goodreads.com/book/show/39731666-hippie)
 
 
