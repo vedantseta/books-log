@@ -54,7 +54,12 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌝 [Man Without Women <sub>Murakami</sub>](https://www.amazon.in/Men-without-Women-Haruki-Murakami/dp/191121537X)
 - 🌑 [My Gita  <sub>Devdutt Pattanaik </sub>](https://www.amazon.in/My-Gita-Devdutt-Pattanaik-ebook/dp/B0171TCXSO)
 - 🌑 [Ranayana vs Mahabharata  <sub>Devdutt Pattanaik </sub>](https://www.amazon.in/Ramayana-Versus-Mahabharata-Playful-Comparison-ebook/dp/B07KKLJ4SJ)
-
+- 🌑 [Secret of Nagas  <sub>Amish </sub>](https://www.amazon.in/Secret-Nagas-Shiva-Trilogy-2/dp/9381626340)
+- 🌑 [Prophet  <sub>Kahlil Gibran </sub>](https://www.amazon.in/Prophet-Kahlil-Gibran/dp/817234354X)
+- 🌟 [Siddhartha  <sub>Hermann Hesse </sub>](https://www.amazon.in/Siddhartha-Hermann-Hesse/dp/0553208845)
+- 🌑 [Secret  <sub>Rhonda Byrne </sub>](https://www.amazon.in/Secret-Rhonda-Byrne/dp/1847370292/ref=sr_1_3?crid=2BMEINFLMD7XR&keywords=secret+rhonda+byrne+book&qid=1566635147&s=books&sprefix=secret+rh%2Cstripbooks%2C274&sr=1-3)
+- 🌑 [And Mountains Echoed  <sub>Khaled Hosseini </sub>](https://www.amazon.in/Mountains-Echoed-Novel-Khaled-Hosseini/dp/159463176X/ref=sr_1_3?crid=2U01NS1W869IG&keywords=and+mountains+echoed&qid=1566635187&s=books&sprefix=and+mountain%2Cstripbooks%2C271&sr=1-3)
+- 🌑 [Turning Point  <sub>APJ Abdul Kalam</sub>](https://www.amazon.in/Turning-Points-Journey-Challanges-Challenges/dp/9350293471)
 
 ## Yoga
 - 🌑 [Know Yoga Live Yoga <sub>Vasant Mhaskar</sub>]()
