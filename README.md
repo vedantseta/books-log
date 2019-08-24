@@ -14,8 +14,9 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌝 **Wouldn't recommend** <sub>(2/84)</sub>
 - 🌟 **Loved it** <sub>(23/84)</sub>
 
-## Teamwork
+## Software Philosophy
 - 🌑 [The Mythical Man-Month:<sub>Essays on Software Engineering</sub>](https://www.amazon.com/dp/0201835959/?tag=codihorr-20)
+- 🌑 [The Pragmatic Programmer<sub>From Journeyman to Master</sub>](https://www.amazon.in/Pragmatic-Programmer-Journeyman-Master-ebook/dp/B003GCTQAE)
 
 
 ## Linux 
@@ -33,8 +34,14 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌑 [Success Principles <sub></sub>](https://www.goodreads.com/book/show/96593.The_Success_Principles)
 
 
-## Casual Reads
+## Reads
 - 🌑 [Hippie <sub></sub>](https://www.goodreads.com/book/show/39731666-hippie)
+- 🌟 [Tuesdays with Morrie <sub>An Old Man, a Young Man, and Life's Greatest Lesson </sub>](https://www.amazon.com/Tuesdays-Morrie-Greatest-Lesson-Anniversary/dp/076790592X)
+- 🌑 [One <sub>Richard bach</sub>](https://www.goodreads.com/book/show/265264.One)
+
+
+## Yoga
+- 🌑 [Know Yoga Live Yoga <sub>Vasant Mhaskar</sub>]()
 
 
 ## Fiction 
