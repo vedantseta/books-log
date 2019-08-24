@@ -42,13 +42,14 @@
 - 🌑 [Refactoring <sub>Martin Fowler</sub>](https://www.goodreads.com/book/show/44936.Refactoring?ac=1&from_search=true)
 - 🌑 [Professor Frisby's Mostly Adequate Guide to Functional Programming <sub>Brian Lonsdorf</sub>](https://www.goodreads.com/en/book/show/25847352-professor-frisby-s-mostly-adequate-guide-to-functional-programming)
 - 🌑 [Effective Java  <sub>Joshua Bloch </sub>](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997)
+- 🌑 [Design Patterns  <sub>Gangs of Four </sub>](https://www.amazon.in/Design-Patterns-Object-Oriented-Addison-Wesley-Professional/dp/0201633612)
 
 
 ## Network 
 - 🌑 [Cryptography and Network Security <sub>Principles and Practice</sub>](http://williamstallings.com/Cryptography/)
 - 🌑 [Distributed Computing systems <sub>concepts and design</sub>](https://www.amazon.in/Distributed-Operating-Systems-Concepts-Design/dp/8120313801)
 
-## Other Computing
+## Other Programming Related
 - 🌑 [Compilers <sub>Aho</sub>](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811)
 - 🌑 [Little Book of Semaphoe <sub>The Ins and Outs of Concurrency Control and Common Mistakes
 </sub>](https://www.goodreads.com/book/show/6965200-the-little-book-of-semaphores)
