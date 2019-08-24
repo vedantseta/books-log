@@ -102,5 +102,6 @@
 ## Lost Physical Books (If you have it, please inform)
 - 🌑 [Effective Java  <sub>Joshua Bloch </sub>](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997)
 - 🌑 [Hippie <sub>Paulo Coelho</sub>](https://www.goodreads.com/book/show/39731666-hippie)
-
+- 🌟 [Illusions: The Adventures of a Reluctant Messiah <sub>Richard bach</sub>](https://www.amazon.in/Illusions-Adventures-Reluctant-Richard-Bach/dp/0440204887)
+- 🌟 [The Bridge Across Forever <sub>Richard bach</sub>](https://www.amazon.in/Bridge-Across-Forever-Richard-Bach/dp/0330290819)
 
