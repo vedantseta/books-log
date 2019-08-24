@@ -20,7 +20,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 
 
 ## Machine Learning
-🌑 [Principles of Soft Computing <sub></sub>](https://www.amazon.in/Principles-Soft-Computing-2ed-WIND/dp/8126527412)
+- 🌑 [Principles of Soft Computing <sub></sub>](https://www.amazon.in/Principles-Soft-Computing-2ed-WIND/dp/8126527412)
 
 
 ## Linux 
