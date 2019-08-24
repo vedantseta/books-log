@@ -48,13 +48,14 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌑 [Hippie <sub></sub>](https://www.goodreads.com/book/show/39731666-hippie)
 - 🌟 [Tuesdays with Morrie <sub>An Old Man, a Young Man, and Life's Greatest Lesson </sub>](https://www.amazon.com/Tuesdays-Morrie-Greatest-Lesson-Anniversary/dp/076790592X)
 - 🌑 [One <sub>Richard bach</sub>](https://www.goodreads.com/book/show/265264.One)
+- 🌑 [Gift Of Wings <sub>Richard bach</sub>](https://www.goodreads.com/book/show/29953.A_Gift_Of_Wings)
 - 🌟 [Jonathan Levingston Seagull <sub>Richard bach </sub>](https://www.goodreads.com/book/show/71728.Jonathan_Livingston_Seagull)
 - 🌟 [Word Power Made Easy  <sub>Norman Lewis </sub>](https://www.amazon.in/Word-Power-Made-Norman-Lewis/dp/8183071007)
 - 🌑 [The Unbearable Lightness of Being <sub>Milan Kundra</sub>](https://www.goodreads.com/book/show/9717.The_Unbearable_Lightness_of_Being)
 - 🌝 [Man Without Women <sub>Murakami</sub>](https://www.amazon.in/Men-without-Women-Haruki-Murakami/dp/191121537X)
 - 🌑 [My Gita  <sub>Devdutt Pattanaik </sub>](https://www.amazon.in/My-Gita-Devdutt-Pattanaik-ebook/dp/B0171TCXSO)
+- 🌑 [Devlok 1  <sub>Devdutt Pattanaik </sub>](https://www.goodreads.com/book/show/30807394-devlok-with-devdutt-pattanaik?ac=1&from_search=true)
 - 🌑 [Ranayana vs Mahabharata  <sub>Devdutt Pattanaik </sub>](https://www.amazon.in/Ramayana-Versus-Mahabharata-Playful-Comparison-ebook/dp/B07KKLJ4SJ)
-- 🌑 [Secret of Nagas  <sub>Amish </sub>](https://www.amazon.in/Secret-Nagas-Shiva-Trilogy-2/dp/9381626340)
 - 🌑 [Prophet  <sub>Kahlil Gibran </sub>](https://www.amazon.in/Prophet-Kahlil-Gibran/dp/817234354X)
 - 🌟 [Siddhartha  <sub>Hermann Hesse </sub>](https://www.amazon.in/Siddhartha-Hermann-Hesse/dp/0553208845)
 - 🌑 [Secret  <sub>Rhonda Byrne </sub>](https://www.amazon.in/Secret-Rhonda-Byrne/dp/1847370292/ref=sr_1_3?crid=2BMEINFLMD7XR&keywords=secret+rhonda+byrne+book&qid=1566635147&s=books&sprefix=secret+rh%2Cstripbooks%2C274&sr=1-3)
@@ -71,6 +72,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 
 ## Fiction 
 - 🌑 [Eldest <sub></sub>](https://www.goodreads.com/book/show/13350.Eragon_Eldest)
+- 🌑 [Secret of Nagas  <sub>Amish </sub>](https://www.amazon.in/Secret-Nagas-Shiva-Trilogy-2/dp/9381626340)
 
 
 
