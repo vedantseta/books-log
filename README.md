@@ -32,16 +32,23 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 
 ## Self help 
 - 🌑 [Success Principles <sub></sub>](https://www.goodreads.com/book/show/96593.The_Success_Principles)
+- 🌑 [Screw it, Let's do it <sub>Tichard Branson</sub>](https://www.amazon.in/Screw-Lets-Do-Lessons-Quick/dp/0753510995)
 
 
 ## Reads
 - 🌑 [Hippie <sub></sub>](https://www.goodreads.com/book/show/39731666-hippie)
 - 🌟 [Tuesdays with Morrie <sub>An Old Man, a Young Man, and Life's Greatest Lesson </sub>](https://www.amazon.com/Tuesdays-Morrie-Greatest-Lesson-Anniversary/dp/076790592X)
 - 🌑 [One <sub>Richard bach</sub>](https://www.goodreads.com/book/show/265264.One)
+- 🌟 [Jonathan Levingston Seagull <sub>Richard bach </sub>](https://www.goodreads.com/book/show/71728.Jonathan_Livingston_Seagull)
+- 🌟 [Word Power Made Easy  <sub>Norman Lewis </sub>](https://www.amazon.in/Word-Power-Made-Norman-Lewis/dp/8183071007)
+- 🌑 [The Unbearable Lightness of Being <sub>Milan Kundra</sub>](https://www.goodreads.com/book/show/9717.The_Unbearable_Lightness_of_Being)
+- 🌝 [Man Without Women <sub>Murakami</sub>](https://www.amazon.in/Men-without-Women-Haruki-Murakami/dp/191121537X)
 
 
 ## Yoga
 - 🌑 [Know Yoga Live Yoga <sub>Vasant Mhaskar</sub>]()
+- 🌑 [Yoga Yatra <sub>From purification to perfection</sub>]()
+- 🌑 [Anandyoga <sub>Yogacharya Vyavahare</sub>]()
 
 
 ## Fiction 
