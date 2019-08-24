@@ -15,11 +15,15 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌟 **Loved it** <sub>(23/84)</sub>
 
 ## Teamwork
-- 🌕 [The Mythical Man-Month:<sub>Essays on Software Engineering</sub>](https://www.amazon.com/dp/0201835959/?tag=codihorr-20)
+- 🌑 [The Mythical Man-Month:<sub>Essays on Software Engineering</sub>](https://www.amazon.com/dp/0201835959/?tag=codihorr-20)
 
 
 ## Linux 
-- 🌟 [Understanding Linux Kernel <sub></sub>](https://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652)
+- 🌑 [Understanding Linux Kernel <sub></sub>](https://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652)
+
+
+## Finance
+- 🌟 [Rich dad poor dad <sub>What the Rich Teach their Kids About Money that the Poor and Middle Class Do Not! </sub>](https://www.amazon.in/Rich-Dad-Poor-Teach-Middle/dp/1612680011)
 
 
 
