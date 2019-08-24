@@ -74,6 +74,7 @@
 - 🌑 [The best short stories of Guy De Maupassant<sub></sub>](https://www.goodreads.com/book/show/1986669.The_Best_Short_Stories_of_Guy_de_Maupassant?ac=1&from_search=true)
 - 🌑 [Boule De Suf and other stories <sub>Guy De Maupassant</sub>](https://www.goodreads.com/book/show/74882.Boule_de_Suif)
 - 🌑 [Peter Camenzind  <sub>Hermann Hesse </sub>](https://www.goodreads.com/book/show/71943.Peter_Camenzind)
+- 🌑 [Klingsor's Last Summer  <sub>Hermann Hesse </sub>](https://www.amazon.com/Klingsors-Last-Summer-Hermann-Hesse/dp/0374181667)
 
 ## Yoga
 - 🌑 [Know Yoga Live Yoga <sub>Vasant Mhaskar</sub>]()
