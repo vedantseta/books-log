@@ -26,6 +26,19 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌟 [Rich dad poor dad <sub>What the Rich Teach their Kids About Money that the Poor and Middle Class Do Not! </sub>](https://www.amazon.in/Rich-Dad-Poor-Teach-Middle/dp/1612680011)
 
 
+## Network 
+- 🌑 [Cryptography and Network Security <sub>Principles and Practice</sub>](http://williamstallings.com/Cryptography/)
+
+## Self help 
+- 🌑 [Success Principles <sub></sub>](https://www.goodreads.com/book/show/96593.The_Success_Principles)
+
 
 ## Casual Reads
-- 🌑 [Hippie? <sub></sub>](https://www.goodreads.com/book/show/39731666-hippie)
+- 🌑 [Hippie <sub></sub>](https://www.goodreads.com/book/show/39731666-hippie)
+
+
+## Fiction 
+- 🌑 [Eldest <sub></sub>](https://www.goodreads.com/book/show/13350.Eragon_Eldest)
+
+
+
