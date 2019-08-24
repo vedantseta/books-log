@@ -49,7 +49,7 @@
 
 
 ## Philosophy
-- 🌑 [Hippie <sub></sub>](https://www.goodreads.com/book/show/39731666-hippie)
+- 🌑 [Hippie <sub>Paulo Coelho</sub>](https://www.goodreads.com/book/show/39731666-hippie)
 - 🌟 [Tuesdays with Morrie <sub>An Old Man, a Young Man, and Life's Greatest Lesson </sub>](https://www.amazon.com/Tuesdays-Morrie-Greatest-Lesson-Anniversary/dp/076790592X)
 - 🌑 [One <sub>Richard bach</sub>](https://www.goodreads.com/book/show/265264.One)
 - 🌑 [Gift Of Wings <sub>Richard bach</sub>](https://www.goodreads.com/book/show/29953.A_Gift_Of_Wings)
@@ -69,6 +69,11 @@
 - 🌑 [Ignited Minds<sub>APJ Abdul Kalam</sub>](https://www.amazon.in/Ignited-Minds-Unleashing-power-within/dp/0143424122)
 - 🌑 [Winner Stand Alone <sub>Paulo Coelho</sub>](https://www.goodreads.com/book/show/5356711-the-winner-stands-alone?ac=1&from_search=true)
 - 🌑 [Hard Times <sub>Charles Dickens</sub>](https://www.goodreads.com/book/show/5344.Hard_Times)
+- 🌑 [The Myth of Sisyphus <sub>Albert Camus</sub>](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus?ac=1&from_search=true)
+- 🌑 [The Fall<sub>Albert Camus</sub>](https://www.goodreads.com/book/show/11991.The_Fall?ac=1&from_search=true)
+- 🌑 [The best short stories of Guy De Maupassant<sub></sub>](https://www.goodreads.com/book/show/1986669.The_Best_Short_Stories_of_Guy_de_Maupassant?ac=1&from_search=true)
+- 🌑 [Boule De Suf and other stories <sub>Guy De Maupassant</sub>](https://www.goodreads.com/book/show/74882.Boule_de_Suif)
+- 🌑 [Peter Camenzind  <sub>Hermann Hesse </sub>](https://www.goodreads.com/book/show/71943.Peter_Camenzind)
 
 ## Yoga
 - 🌑 [Know Yoga Live Yoga <sub>Vasant Mhaskar</sub>]()
@@ -82,6 +87,8 @@
 - 🌑 [Eldest <sub></sub>](https://www.goodreads.com/book/show/13350.Eragon_Eldest)
 - 🌑 [Secret of Nagas  <sub>Amish </sub>](https://www.amazon.in/Secret-Nagas-Shiva-Trilogy-2/dp/9381626340)
 - 🌑 [Harry Portter and Philosophers Stone  <sub>JK Rowling </sub>](https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone?ac=1&from_search=true)
+- 🌑 [Famous Five  <sub>13 Five to Mystery Moor </sub>](https://www.goodreads.com/book/show/17483.Five_Go_to_Mystery_Moor)
+
 
 
 
