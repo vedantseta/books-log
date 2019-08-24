@@ -5,7 +5,7 @@
 
 ## Ratings
 
-- :x: Books I dont have  
+- :x: Books I dont have, but want to read
 - 🌑 Haven't read yet <sub></sub>
 - 🌘 🌗 🌖 Reading progress <sub></sub>
 - 🌕 Finished reading, liked it <sub></sub>
