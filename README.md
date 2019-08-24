@@ -5,11 +5,11 @@
 
 ## Ratings
 
-- 🌑 Haven't read yet <sub>(28/84)</sub>
-- 🌘 🌗 🌖 Reading progress <sub>(4/84)</sub>
-- 🌕 Finished reading, liked it <sub>(27/84)</sub>
-- 🌝 **Wouldn't recommend** <sub>(2/84)</sub>
-- 🌟 **Loved it** <sub>(23/84)</sub>
+- 🌑 Haven't read yet <sub></sub>
+- 🌘 🌗 🌖 Reading progress <sub></sub>
+- 🌕 Finished reading, liked it <sub></sub>
+- 🌝 **Wouldn't recommend** <sub></sub>
+- 🌟 **Loved it** <sub></sub>
 
 ## Want 
 - The Design of Everyday Things 
