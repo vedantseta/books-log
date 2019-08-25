@@ -102,6 +102,8 @@
 - :x: The God Of Small Things By Arundhati Roy
 - :x: White Tiger By Aravind Adiga
 - :x: A Suitable Boy by Vikram Seth
+- :x: The Timeless Way of Building
+
 
 ## Lost Physical Books (If you have it, please inform)
 - 🌑 [Hippie <sub>Paulo Coelho</sub>](https://www.goodreads.com/book/show/39731666-hippie)
