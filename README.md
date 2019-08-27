@@ -28,7 +28,7 @@
 ## Linux 
 - :x: [Understanding Linux Kernel <sub></sub>](https://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652)
 - :x: The Art of Unix Programming
-
+- :x: Operating Systems: Three Easy Pieces
 
 
 ## Finance
